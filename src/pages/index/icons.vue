@@ -10,7 +10,7 @@
         </div>
       </swiper-slide>
     </swiper>
-    <div class="swiper-pagination personal"  slot="pagination"></div>
+    <div class="swiper-pagination paginate"  slot="pagination"></div>
   </div>
 </template>
 
@@ -47,9 +47,10 @@
 <style lang="stylus" scoped>
   @import "../../assets/stylus/varibles.styl"
   .icons
-    height: 3.8rem
-    overflow: hidden
+    height: 0
+    padding-bottom: 3.8rem
     position: relative
+    overflow: hidden
     background-color: #fff
     .area-con
       display: flex
@@ -68,7 +69,7 @@
           text-overflow: ellipsis
           line-height: .4rem
           text-align: center
-    .personal
+    .paginate
       position: absolute
       bottom: .1rem
       left: 40%
@@ -78,7 +79,7 @@
       border-radius: .15rem
       text-align: center
       color: #fff
-    .personal >>> .swiper-pagination-bullet
+    .paginate >>> .swiper-pagination-bullet
       margin-right: .13rem
       width: .12rem
       height: .12rem

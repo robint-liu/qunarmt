@@ -6,13 +6,17 @@
     <div class="search">
       <span class="iconfont search-icon">&#xe600;</span>请输入搜索内容···
     </div>
-    <div class="city">
-      北京
-    </div>
+    <router-link to="/city">
+      <div class="city">
+        {{$store.state.city || local.city}}
+      </div>
+    </router-link>
   </div>
 </template>
 
 <script>
+  import Vue from 'vue'
+  Vue.prototype.local = localStorage
   export default {
     name: 'index-header'
   }
@@ -46,8 +50,13 @@
         top: .001rem
         padding-right: .1rem
     .city
+      max-width: 3rem
+      white-space: nowrap
+      overflow: hidden
+      text-overflow: ellipsis
       padding-right: .6rem
       position: relative
+      color: #fff
       &:before
         position: absolute
         top: .35rem

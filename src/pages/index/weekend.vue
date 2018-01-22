@@ -5,7 +5,7 @@
     </div>
     <div class="weekendItem" v-for="item of list" :key="item.id">
       <div class="img">
-        <img :src="item.imgurl" :alt="item.title">
+        <img v-lazy="item.imgurl" :alt="item.title">
       </div>
       <div class="word">
         <span class="title" v-text="item.title"></span>

@@ -1,0 +1,1450 @@
+{
+	"ret": true,
+	"data": {
+		"city": "北京",
+		"hotcitylist": [{
+			"id": "1001",
+			"name": "北京"
+		},{
+			"id": "1002",
+			"name": "西安"
+		},{
+			"id": "1003",
+			"name": "三亚"
+		},{
+			"id": "1004",
+			"name": "丽江"
+		},{
+			"id": "1005",
+			"name": "桂林"
+		},{
+			"id": "1006",
+			"name": "成都"
+		},{
+			"id": "1007",
+			"name": "上海"
+		},{
+			"id": "1008",
+			"name": "西双版纳"
+		},{
+			"id": "1009",
+			"name": "厦门"
+		},{
+			"id": "1010",
+			"name": "长沙"
+		},{
+			"id": "1011",
+			"name": "苏州"
+		},{
+			"id": "1012",
+			"name": "大理"
+		},{
+			"id": "1013",
+			"name": "广州"
+		},{
+			"id": "1014",
+			"name": "杭州"
+		},{
+			"id": "1015",
+			"name": "昆明"
+		},{
+			"id": "1016",
+			"name": "重庆"
+		}],
+		"list": [{
+			"classify": "A",
+			"cityList": [{
+				"id": "1001",
+				"name": "阿坝藏族羌族自治州",
+				"spell": "abazangzuqiangzuzizhizhou"
+			},{
+				"id": "1002",
+				"name": "阿克苏地区",
+				"spell": "akesudiqu"
+			},{
+				"id": "1003",
+				"name": "阿拉尔",
+				"spell": "alaer"
+			},{
+				"id": "1004",
+				"name": "阿拉善盟",
+				"spell": "alashanmeng"
+			},{
+				"id": "1005",
+				"name": "阿勒泰",
+				"spell": "aletai"
+			},{
+				"id": "1006",
+				"name": "阿里",
+				"spell": "ali"
+			},{
+				"id": "1007",
+				"name": "安康",
+				"spell": "ankang"
+			},{
+				"id": "1008",
+				"name": "安庆",
+				"spell": "anqing"
+			},{
+				"id": "1009",
+				"name": "安顺",
+				"spell": "anshun"
+			},{
+				"id": "1010",
+				"name": "安阳",
+				"spell": "anyang"
+			},{
+				"id": "1011",
+				"name": "鞍山",
+				"spell": "anshan"
+			},{
+				"id": "1012",
+				"name": "澳门",
+				"spell": "aomen"
+			}]
+		},{
+			"classify": "B",
+			"cityList": [{
+				"id": "1001",
+				"name": "巴彦淖尔",
+				"spell": "bayannaoer"
+			},{
+				"id": "1002",
+				"name": "巴音郭楞",
+				"spell": "bayinguoleng"
+			},{
+				"id": "1003",
+				"name": "巴中",
+				"spell": "bazhong"
+			},{
+				"id": "1004",
+				"name": "白城",
+				"spell": "baicheng"
+			},{
+				"id": "1005",
+				"name": "白沙",
+				"spell": "baisha"
+			},{
+				"id": "1006",
+				"name": "白银",
+				"spell": "baiyin"
+			},{
+				"id": "1007",
+				"name": "百色",
+				"spell": "baise"
+			},{
+				"id": "1008",
+				"name": "蚌埠",
+				"spell": "bengbu"
+			},{
+				"id": "1009",
+				"name": "包头",
+				"spell": "baotou"
+			},{
+				"id": "1010",
+				"name": "宝鸡",
+				"spell": "baoji"
+			},{
+				"id": "1011",
+				"name": "保定",
+				"spell": "baoding"
+			},{
+				"id": "1012",
+				"name": "宝山",
+				"spell": "baoshan"
+			},{
+				"id": "1013",
+				"name": "保亭",
+				"spell": "baoting"
+			},{
+				"id": "1014",
+				"name": "北海",
+				"spell": "beihai"
+			},{
+				"id": "1015",
+				"name": "北京",
+				"spell": "beijing"
+			},{
+				"id": "1016",
+				"name": "本溪",
+				"spell": "benxi"
+			},{
+				"id": "1017",
+				"name": "毕节",
+				"spell": "bijie"
+			},{
+				"id": "1018",
+				"name": "滨州",
+				"spell": "binzhou"
+			},{
+				"id": "1019",
+				"name": "亳州",
+				"spell": "bozhou"
+			},{
+				"id": "1020",
+				"name": "博尔塔拉",
+				"spell": "boertala"
+			}]
+		},{
+			"classify": "C",
+			"cityList": [{
+				"id": "1001",
+				"name": "沧州",
+				"spell": "cangzhou"
+			},{
+				"id": "1002",
+				"name": "昌都",
+				"spell": "changdu"
+			},{
+				"id": "1003",
+				"name": "昌吉",
+				"spell": "changji"
+			},{
+				"id": "1004",
+				"name": "常德",
+				"spell": "changde"
+			},{
+				"id": "1005",
+				"name": "常州",
+				"spell": "changzhou"
+			},{
+				"id": "1006",
+				"name": "巢湖",
+				"spell": "chaohu"
+			},{
+				"id": "1007",
+				"name": "朝阳",
+				"spell": "chaoyang"
+			},{
+				"id": "1008",
+				"name": "潮州",
+				"spell": "chaozhou"
+			},{
+				"id": "1009",
+				"name": "成都",
+				"spell": "chengdu"
+			},{
+				"id": "1010",
+				"name": "承德",
+				"spell": "chengde"
+			},{
+				"id": "1011",
+				"name": "池州",
+				"spell": "chizhou"
+			},{
+				"id": "1012",
+				"name": "赤峰",
+				"spell": "chifeng"
+			},{
+				"id": "1013",
+				"name": "长春",
+				"spell": "changchun"
+			},{
+				"id": "1014",
+				"name": "长沙",
+				"spell": "changsha"
+			},{
+				"id": "1015",
+				"name": "重庆",
+				"spell": "chongqing"
+			}]
+		},{
+			"classify": "D",
+			"cityList": [{
+				"id": "1001",
+				"name": "大理",
+				"spell": "dali"
+			},{
+				"id": "1002",
+				"name": "大连",
+				"spell": "dalian"
+			},{
+				"id": "1003",
+				"name": "大庆",
+				"spell": "datong"
+			},{
+				"id": "1004",
+				"name": "大同",
+				"spell": "datong"
+			},{
+				"id": "1005",
+				"name": "大兴安岭",
+				"spell": "daxinganling"
+			},{
+				"id": "1006",
+				"name": "德阳",
+				"spell": "deyang"
+			},{
+				"id": "1007",
+				"name": "德州市",
+				"spell": "dezhoushi"
+			},{
+				"id": "1008",
+				"name": "东莞",
+				"spell": "dongguan"
+			},{
+				"id": "1009",
+				"name": "东营",
+				"spell": "dongying"
+			},{
+				"id": "1010",
+				"name": "敦煌市",
+				"spell": "dunhuangshi"
+			},{
+				"id": "1011",
+				"name": "丹东",
+				"spell": "dandong"
+			},{
+				"id": "1012",
+				"name": "定安",
+				"spell": "dingan"
+			}]
+		},{
+			"classify": "E",
+			"cityList": [{
+				"id": "1001",
+				"name": "鄂尔多斯",
+				"spell": "eerduosi"
+			},{
+				"id": "1002",
+				"name": "鄂州",
+				"spell": "ezhou"
+			},{
+				"id": "1003",
+				"name": "恩施",
+				"spell": "enshi"
+			}]
+		},{
+			"classify": "F",
+			"cityList": [{
+				"id": "1001",
+				"name": "防城港",
+				"spell": "fangchenggang"
+			},{
+				"id": "1002",
+				"name": "佛山",
+				"spell": "foshan"
+			},{
+				"id": "1003",
+				"name": "福州",
+				"spell": "fuzhou"
+			},{
+				"id": "1004",
+				"name": "抚顺",
+				"spell": "fushun"
+			},{
+				"id": "1005",
+				"name": "福州",
+				"spell": "fuzhou"
+			},{
+				"id": "1006",
+				"name": "阜新",
+				"spell": "fuxin"
+			},{
+				"id": "1007",
+				"name": "阜阳",
+				"spell": "fuyang"
+			}]
+		},{
+			"classify": "G",
+			"cityList": [{
+				"id": "1001",
+				"name": "甘南",
+				"spell": "gannan"
+			},{
+				"id": "1002",
+				"name": "甘孜州",
+				"spell": "ganzizhou"
+			},{
+				"id": "1003",
+				"name": "赣州",
+				"spell": "ganzhou"
+			},{
+				"id": "1004",
+				"name": "高雄",
+				"spell": "gaoxiong"
+			},{
+				"id": "1005",
+				"name": "固原",
+				"spell": "guyuan"
+			},{
+				"id": "1006",
+				"name": "广安",
+				"spell": "guangan"
+			},{
+				"id": "1007",
+				"name": "广元",
+				"spell": "guangyuan"
+			},{
+				"id": "1008",
+				"name": "广州",
+				"spell": "guangzhou"
+			},{
+				"id": "1009",
+				"name": "贵港",
+				"spell": "guigang"
+			},{
+				"id": "1010",
+				"name": "贵阳",
+				"spell": "guiyang"
+			},{
+				"id": "1011",
+				"name": "桂林",
+				"spell": "guilin"
+			},{
+				"id": "1012",
+				"name": "果洛藏族自治州",
+				"spell": "guoluozangzuzizhizhou"
+			}]
+		},{
+			"classify": "H",
+			"cityList": [{
+				"id": "1001",
+				"name": "哈尔滨",
+				"spell": "haerbin"
+			},{
+				"id": "1002",
+				"name": "哈密",
+				"spell": "hami"
+			},{
+				"id": "1003",
+				"name": "海北藏族自治州",
+				"spell": "haibeizangzuzizhizhou"
+			},{
+				"id": "1004",
+				"name": "海东地区",
+				"spell": "haidongdiqu"
+			},{
+				"id": "1005",
+				"name": "海南藏族自治州",
+				"spell": "hainanzangzuzizhizhou"
+			},{
+				"id": "1006",
+				"name": "海西蒙古族藏族自治州里",
+				"spell": "haiximengguzuzangzuzizhizhou"
+			},{
+				"id": "1007",
+				"name": "邯郸",
+				"spell": "handan"
+			},{
+				"id": "1008",
+				"name": "汉中",
+				"spell": "hanzhong"
+			},{
+				"id": "1009",
+				"name": "杭州",
+				"spell": "hangzhou"
+			},{
+				"id": "1010",
+				"name": "合肥",
+				"spell": "hefei"
+			},{
+				"id": "1011",
+				"name": "鹤壁",
+				"spell": "hebi"
+			},{
+				"id": "1012",
+				"name": "衡水",
+				"spell": "hengshui"
+			},{
+				"id": "1013",
+				"name": "红河",
+				"spell": "honghe"
+			},{
+				"id": "1014",
+				"name": "呼和浩特",
+				"spell": "huhehaote"
+			},{
+				"id": "1015",
+				"name": "呼伦贝尔",
+				"spell": "hulunbeier"
+			},{
+				"id": "1016",
+				"name": "葫芦岛",
+				"spell": "huludao"
+			},{
+				"id": "1017",
+				"name": "黄南藏族自治州",
+				"spell": "huangnanzangzuzizhizhou"
+			},{
+				"id": "1018",
+				"name": "黄冈",
+				"spell": "huanggang"
+			},{
+				"id": "1019",
+				"name": "惠州",
+				"spell": "huizhou"
+			},{
+				"id": "1020",
+				"name": "淮安",
+				"spell": "huaian"
+			},{
+				"id": "1021",
+				"name": "海口",
+				"spell": "haikou"
+			}]
+		},{
+			"classify": "J",
+			"cityList": [{
+				"id": "1001",
+				"name": "鸡西",
+				"spell": "jixi"
+			},{
+				"id": "1002",
+				"name": "基隆",
+				"spell": "jilong"
+			},{
+				"id": "1003",
+				"name": "吉安",
+				"spell": "jian"
+			},{
+				"id": "1004",
+				"name": "吉林",
+				"spell": "jilin"
+			},{
+				"id": "1005",
+				"name": "济南",
+				"spell": "jinan"
+			},{
+				"id": "1006",
+				"name": "济宁",
+				"spell": "jiniing"
+			},{
+				"id": "1007",
+				"name": "佳木斯",
+				"spell": "jiamusi"
+			},{
+				"id": "1008",
+				"name": "嘉兴",
+				"spell": "jiaxing"
+			},{
+				"id": "1009",
+				"name": "嘉义",
+				"spell": "jiayi"
+			},{
+				"id": "1010",
+				"name": "嘉峪关",
+				"spell": "jiayuguan"
+			},{
+				"id": "1011",
+				"name": "焦作",
+				"spell": "jiaozuo"
+			},{
+				"id": "1012",
+				"name": "金华",
+				"spell": "jinhua"
+			},{
+				"id": "1013",
+				"name": "锦州",
+				"spell": "jinzhou"
+			},{
+				"id": "1014",
+				"name": "晋城",
+				"spell": "jincheng"
+			},{
+				"id": "1015",
+				"name": "晋中",
+				"spell": "jinzhong"
+			},{
+				"id": "1016",
+				"name": "荆州",
+				"spell": "jingzhou"
+			},{
+				"id": "1017",
+				"name": "景德镇",
+				"spell": "jingdezhen"
+			},{
+				"id": "1018",
+				"name": "九江",
+				"spell": "jiujiang"
+			},{
+				"id": "1019",
+				"name": "酒泉",
+				"spell": "jiuquan"
+			}]
+		},{
+			"classify": "K",
+			"cityList": [{
+				"id": "1001",
+				"name": "喀什",
+				"spell": "kashi"
+			},{
+				"id": "1002",
+				"name": "开封",
+				"spell": "kaifeng"
+			},{
+				"id": "1003",
+				"name": "克拉玛依",
+				"spell": "kelamayi"
+			},{
+				"id": "1004",
+				"name": "克孜勒苏",
+				"spell": "kezilesu"
+			},{
+				"id": "1005",
+				"name": "克孜勒苏柯尔克孜",
+				"spell": "kezilesukeerkezi"
+			},{
+				"id": "1006",
+				"name": "昆明",
+				"spell": "kunming"
+			}]
+		},{
+			"classify": "L",
+			"cityList": [{
+				"id": "1001",
+				"name": "拉萨",
+				"spell": "lasa"
+			},{
+				"id": "1002",
+				"name": "兰州",
+				"spell": "lanzhou"
+			},{
+				"id": "1003",
+				"name": "廊坊",
+				"spell": "langfang"
+			},{
+				"id": "1004",
+				"name": "乐山",
+				"spell": "leshan"
+			},{
+				"id": "1005",
+				"name": "丽江",
+				"spell": "lijiang"
+			},{
+				"id": "1006",
+				"name": "丽水",
+				"spell": "lishui"
+			},{
+				"id": "1007",
+				"name": "连云港",
+				"spell": "lianyungang"
+			},{
+				"id": "1008",
+				"name": "辽阳",
+				"spell": "liaoyang"
+			},{
+				"id": "1009",
+				"name": "聊城",
+				"spell": "liaocheng"
+			},{
+				"id": "1010",
+				"name": "临汾",
+				"spell": "linfen"
+			},{
+				"id": "1011",
+				"name": "陵水",
+				"spell": "lingshui"
+			},{
+				"id": "1012",
+				"name": "柳州",
+				"spell": "liuzhou"
+			},{
+				"id": "1013",
+				"name": "六安",
+				"spell": "luan"
+			},{
+				"id": "1014",
+				"name": "陇南",
+				"spell": "longnan"
+			},{
+				"id": "1015",
+				"name": "泸州",
+				"spell": "luzhou"
+			},{
+				"id": "1016",
+				"name": "洛阳",
+				"spell": "luoyang"
+			},{
+				"id": "1017",
+				"name": "漯河",
+				"spell": "luohe"
+			},{
+				"id": "1018",
+				"name": "吕梁",
+				"spell": "lvliang"
+			}]
+		},{
+			"classify": "M",
+			"cityList": [{
+				"id": "1001",
+				"name": "马鞍山",
+				"spell": "maanshan"
+			},{
+				"id": "1002",
+				"name": "茂名",
+				"spell": "maoming"
+			},{
+				"id": "1003",
+				"name": "眉山",
+				"spell": "meishan"
+			},{
+				"id": "1004",
+				"name": "梅州",
+				"spell": "meizhou"
+			},{
+				"id": "1005",
+				"name": "绵阳",
+				"spell": "mianyang"
+			},{
+				"id": "1006",
+				"name": "苗栗",
+				"spell": "miaoli"
+			},{
+				"id": "1007",
+				"name": "牡丹江",
+				"spell": "mudanjiang"
+			}]
+		},{
+			"classify": "N",
+			"cityList": [{
+				"id": "1001",
+				"name": "那曲",
+				"spell": "naqu"
+			},{
+				"id": "1002",
+				"name": "南昌",
+				"spell": "nanchang"
+			},{
+				"id": "1003",
+				"name": "南充",
+				"spell": "nanchong"
+			},{
+				"id": "1004",
+				"name": "南京",
+				"spell": "nanjing"
+			},{
+				"id": "1005",
+				"name": "南宁",
+				"spell": "nanning"
+			},{
+				"id": "1006",
+				"name": "南通",
+				"spell": "nantong"
+			},{
+				"id": "1007",
+				"name": "南阳",
+				"spell": "nanyang"
+			},{
+				"id": "1008",
+				"name": "内江",
+				"spell": "neijiang"
+			},{
+				"id": "1009",
+				"name": "宁波",
+				"spell": "ningbo"
+			},{
+				"id": "1010",
+				"name": "宁德",
+				"spell": "ningde"
+			},{
+				"id": "1011",
+				"name": "怒江",
+				"spell": "nujiang"
+			}]
+		},{
+			"classify": "P",
+			"cityList": [{
+				"id": "1001",
+				"name": "攀枝花",
+				"spell": "panzhihua"
+			},{
+				"id": "1002",
+				"name": "盘锦",
+				"spell": "panjin"
+			},{
+				"id": "1003",
+				"name": "平顶山",
+				"spell": "pingdingshan"
+			},{
+				"id": "1004",
+				"name": "平湖",
+				"spell": "pinghu"
+			},{
+				"id": "1005",
+				"name": "平凉",
+				"spell": "pingliang"
+			},{
+				"id": "1006",
+				"name": "屏东",
+				"spell": "pingdong"
+			},{
+				"id": "1007",
+				"name": "萍乡",
+				"spell": "pingxiang"
+			},{
+				"id": "1008",
+				"name": "莆田",
+				"spell": "putian"
+			},{
+				"id": "1009",
+				"name": "濮阳",
+				"spell": "puyang"
+			},{
+				"id": "1010",
+				"name": "普宁",
+				"spell": "puning"
+			}]
+		},{
+			"classify": "Q",
+			"cityList": [{
+				"id": "1001",
+				"name": "七台河",
+				"spell": "qitaihe"
+			},{
+				"id": "1002",
+				"name": "齐齐哈尔",
+				"spell": "qiqihaer"
+			},{
+				"id": "1003",
+				"name": "黔南",
+				"spell": "qiannan"
+			},{
+				"id": "1004",
+				"name": "钦州",
+				"spell": "qinzhou"
+			},{
+				"id": "1005",
+				"name": "秦皇岛",
+				"spell": "qinhuangdao"
+			},{
+				"id": "1006",
+				"name": "青岛",
+				"spell": "qingdao"
+			},{
+				"id": "1007",
+				"name": "清远",
+				"spell": "qingyuan"
+			},{
+				"id": "1008",
+				"name": "庆阳",
+				"spell": "qingyang"
+			},{
+				"id": "1009",
+				"name": "琼海",
+				"spell": "qionghai"
+			},{
+				"id": "1010",
+				"name": "衢州",
+				"spell": "quzhou"
+			},{
+				"id": "1011",
+				"name": "曲靖",
+				"spell": "qujing"
+			},{
+				"id": "1012",
+				"name": "泉州",
+				"spell": "quanzhou"
+			}]
+		},{
+			"classify": "R",
+			"cityList": [{
+				"id": "1001",
+				"name": "日喀则",
+				"spell": "rikaze"
+			},{
+				"id": "1002",
+				"name": "日照",
+				"spell": "rizhao"
+			},{
+				"id": "1003",
+				"name": "瑞金市",
+				"spell": "ruijinshi"
+			}]
+		},{
+			"classify": "S",
+			"cityList": [{
+				"id": "1001",
+				"name": "普洱",
+				"spell": "puer"
+			},{
+				"id": "1002",
+				"name": "三门峡",
+				"spell": "sanmenxia"
+			},{
+				"id": "1003",
+				"name": "三明",
+				"spell": "sanming"
+			},{
+				"id": "1004",
+				"name": "三沙",
+				"spell": "sansha"
+			},{
+				"id": "1005",
+				"name": "三亚",
+				"spell": "sanya"
+			},{
+				"id": "1006",
+				"name": "山南",
+				"spell": "shannan"
+			},{
+				"id": "1007",
+				"name": "汕头",
+				"spell": "shantou"
+			},{
+				"id": "1008",
+				"name": "汕尾",
+				"spell": "shanwei"
+			},{
+				"id": "1009",
+				"name": "商洛",
+				"spell": "shangluo"
+			},{
+				"id": "1010",
+				"name": "商丘",
+				"spell": "shangqiu"
+			},{
+				"id": "1011",
+				"name": "上海",
+				"spell": "shanghai"
+			},{
+				"id": "1012",
+				"name": "上饶",
+				"spell": "shangrao"
+			},{
+				"id": "1013",
+				"name": "韶关",
+				"spell": "shaoguan"
+			},{
+				"id": "1014",
+				"name": "邵阳",
+				"spell": "shaoyang"
+			},{
+				"id": "1015",
+				"name": "绍兴",
+				"spell": "shaoxing"
+			},{
+				"id": "1016",
+				"name": "深圳",
+				"spell": "shenzhen"
+			},{
+				"id": "1017",
+				"name": "神农架",
+				"spell": "shennongjia"
+			},{
+				"id": "1018",
+				"name": "沈阳",
+				"spell": "shenyang"
+			},{
+				"id": "1019",
+				"name": "石家庄",
+				"spell": "shijiazhuang"
+			},{
+				"id": "1020",
+				"name": "朔州",
+				"spell": "shuozhou"
+			},{
+				"id": "1021",
+				"name": "四平",
+				"spell": "siping"
+			},{
+				"id": "1022",
+				"name": "苏州",
+				"spell": "suzhou"
+			},{
+				"id": "1023",
+				"name": "绥化",
+				"spell": "suihua"
+			},{
+				"id": "1024",
+				"name": "随州",
+				"spell": "suizhou"
+			},{
+				"id": "1025",
+				"name": "遂宁",
+				"spell": "suining"
+			},{
+				"id": "1026",
+				"name": "宿迁",
+				"spell": "suqian"
+			},{
+				"id": "1027",
+				"name": "宿州",
+				"spell": "suzhou"
+			}]
+		},{
+			"classify": "T",
+			"cityList": [{
+				"id": "1001",
+				"name": "塔城地区",
+				"spell": "tachengdiqu"
+			},{
+				"id": "1002",
+				"name": "台北",
+				"spell": "taibei"
+			},{
+				"id": "1003",
+				"name": "台东",
+				"spell": "taidong"
+			},{
+				"id": "1004",
+				"name": "台南",
+				"spell": "tainan"
+			},{
+				"id": "1005",
+				"name": "台山市",
+				"spell": "taishanshi"
+			},{
+				"id": "1006",
+				"name": "台中",
+				"spell": "taizhong"
+			},{
+				"id": "1007",
+				"name": "台州",
+				"spell": "taizhou"
+			},{
+				"id": "1008",
+				"name": "太原",
+				"spell": "taiyuan"
+			},{
+				"id": "1009",
+				"name": "泰安",
+				"spell": "taian"
+			},{
+				"id": "1010",
+				"name": "泰州",
+				"spell": "taizhou"
+			},{
+				"id": "1011",
+				"name": "唐山",
+				"spell": "tangshan"
+			},{
+				"id": "1012",
+				"name": "桃园",
+				"spell": "taoyuan"
+			},{
+				"id": "1013",
+				"name": "天津",
+				"spell": "tianjin"
+			},{
+				"id": "1014",
+				"name": "天门",
+				"spell": "tianmen"
+			},{
+				"id": "1015",
+				"name": "天水",
+				"spell": "tianshui"
+			},{
+				"id": "1016",
+				"name": "铁岭",
+				"spell": "tieling"
+			},{
+				"id": "1017",
+				"name": "通化",
+				"spell": "tonghua"
+			},{
+				"id": "1018",
+				"name": "通辽",
+				"spell": "tongliao"
+			},{
+				"id": "1019",
+				"name": "铜川",
+				"spell": "tongchuan"
+			},{
+				"id": "1020",
+				"name": "铜陵",
+				"spell": "tongling"
+			},{
+				"id": "1021",
+				"name": "铜仁",
+				"spell": "tongren"
+			},{
+				"id": "1022",
+				"name": "图木舒克",
+				"spell": "tumushuke"
+			},{
+				"id": "1023",
+				"name": "吐鲁番",
+				"spell": "tulufan"
+			},{
+				"id": "1024",
+				"name": "屯昌",
+				"spell": "tunchang"
+			}]
+		},{
+			"classify": "W",
+			"cityList": [{
+				"id": "1001",
+				"name": "万宁",
+				"spell": "wanning"
+			},{
+				"id": "1002",
+				"name": "威海",
+				"spell": "weihai"
+			},{
+				"id": "1003",
+				"name": "潍坊",
+				"spell": "weifang"
+			},{
+				"id": "1004",
+				"name": "渭南",
+				"spell": "weinan"
+			},{
+				"id": "1005",
+				"name": "温州",
+				"spell": "wenzhou"
+			},{
+				"id": "1006",
+				"name": "文昌",
+				"spell": "wenchang"
+			},{
+				"id": "1007",
+				"name": "文山",
+				"spell": "wenshan"
+			},{
+				"id": "1008",
+				"name": "乌海",
+				"spell": "wuhai"
+			},{
+				"id": "1009",
+				"name": "乌兰察布",
+				"spell": "wulanchabu"
+			},{
+				"id": "1010",
+				"name": "乌鲁木齐",
+				"spell": "wulumuqi"
+			},{
+				"id": "1011",
+				"name": "无锡",
+				"spell": "wuxi"
+			},{
+				"id": "1012",
+				"name": "芜湖",
+				"spell": "wuhu"
+			},{
+				"id": "1013",
+				"name": "吴忠",
+				"spell": "wuzhong"
+			},{
+				"id": "1014",
+				"name": "梧州",
+				"spell": "wuzhou"
+			},{
+				"id": "1015",
+				"name": "五家渠市",
+				"spell": "wujiaqushi"
+			},{
+				"id": "1016",
+				"name": "五指山",
+				"spell": "wuzhishan"
+			},{
+				"id": "1017",
+				"name": "武汉",
+				"spell": "wuhan"
+			},{
+				"id": "1018",
+				"name": "武威",
+				"spell": "wuwei"
+			}]
+		},{
+			"classify": "X",
+			"cityList": [{
+				"id": "1001",
+				"name": "厦门",
+				"spell": "xiamen"
+			},{
+				"id": "1002",
+				"name": "西安",
+				"spell": "xian"
+			},{
+				"id": "1003",
+				"name": "西南中沙群岛办事处",
+				"spell": "xinanzhongshaqundaobanshichu"
+			},{
+				"id": "1004",
+				"name": "西宁",
+				"spell": "xining"
+			},{
+				"id": "1005",
+				"name": "西双版纳",
+				"spell": "xishuangbanna"
+			},{
+				"id": "1006",
+				"name": "锡林郭勒盟",
+				"spell": "xilinguolemeng"
+			},{
+				"id": "1007",
+				"name": "仙桃",
+				"spell": "xiantao"
+			},{
+				"id": "1008",
+				"name": "咸宁",
+				"spell": "xianning"
+			},{
+				"id": "1009",
+				"name": "咸阳",
+				"spell": "xianyang"
+			},{
+				"id": "1010",
+				"name": "香港",
+				"spell": "xianggang"
+			},{
+				"id": "1011",
+				"name": "湘潭",
+				"spell": "xiangtan"
+			},{
+				"id": "1012",
+				"name": "湘西",
+				"spell": "xiangxi"
+			},{
+				"id": "1013",
+				"name": "襄阳",
+				"spell": "xiangyang"
+			},{
+				"id": "1014",
+				"name": "孝感",
+				"spell": "xiaogan"
+			},{
+				"id": "1015",
+				"name": "忻州",
+				"spell": "xinzhou'"
+			},{
+				"id": "1016",
+				"name": "新北",
+				"spell": "xinbei"
+			},{
+				"id": "1017",
+				"name": "新乡",
+				"spell": "xinxiang"
+			},{
+				"id": "1018",
+				"name": "新余",
+				"spell": "xinyu"
+			},{
+				"id": "1019",
+				"name": "新竹",
+				"spell": "xiunzhu"
+			},{
+				"id": "1020",
+				"name": "信阳",
+				"spell": "xinyang"
+			},{
+				"id": "1021",
+				"name": "邢台",
+				"spell": "xingtai"
+			},{
+				"id": "1022",
+				"name": "兴安盟",
+				"spell": "xinganmeng"
+			},{
+				"id": "1023",
+				"name": "徐州",
+				"spell": "xuzhou"
+			},{
+				"id": "1024",
+				"name": "许昌",
+				"spell": "xuchang"
+			},{
+				"id": "1025",
+				"name": "宣城",
+				"spell": "xuancheng"
+			}]
+		},{
+			"classify": "Y",
+			"cityList": [{
+				"id": "1001",
+				"name": "雅安",
+				"spell": "yaan"
+			},{
+				"id": "1002",
+				"name": "烟台",
+				"spell": "yantai"
+			},{
+				"id": "1003",
+				"name": "延安",
+				"spell": "yanan"
+			},{
+				"id": "1004",
+				"name": "延边",
+				"spell": "yanbian"
+			},{
+				"id": "1005",
+				"name": "盐城",
+				"spell": "yancheng"
+			},{
+				"id": "1006",
+				"name": "扬州",
+				"spell": "yangzhou"
+			},{
+				"id": "1007",
+				"name": "阳江",
+				"spell": "yangjiang"
+			},{
+				"id": "1008",
+				"name": "阳泉",
+				"spell": "yangquan"
+			},{
+				"id": "1009",
+				"name": "伊春",
+				"spell": "yichun"
+			},{
+				"id": "1010",
+				"name": "伊犁",
+				"spell": "yili"
+			},{
+				"id": "1011",
+				"name": "伊犁哈萨克自治州",
+				"spell": "yilihasakezizhizhou"
+			},{
+				"id": "1012",
+				"name": "宜宾",
+				"spell": "yibin"
+			},{
+				"id": "1013",
+				"name": "宜昌",
+				"spell": "yichang"
+			},{
+				"id": "1014",
+				"name": "宜春",
+				"spell": "yichun"
+			},{
+				"id": "1015",
+				"name": "宜兰",
+				"spell": "yilan"
+			},{
+				"id": "1016",
+				"name": "益阳",
+				"spell": "yiyang"
+			},{
+				"id": "1017",
+				"name": "银川",
+				"spell": "yinchuan"
+			},{
+				"id": "1018",
+				"name": "鹰潭",
+				"spell": "yingtan"
+			},{
+				"id": "1019",
+				"name": "营口",
+				"spell": "yingkou"
+			},{
+				"id": "1020",
+				"name": "永州",
+				"spell": "yongzhou"
+			},{
+				"id": "1021",
+				"name": "榆林",
+				"spell": "yulin"
+			},{
+				"id": "1022",
+				"name": "玉林",
+				"spell": "yulin"
+			},{
+				"id": "1023",
+				"name": "玉树藏族自治州",
+				"spell": "yushuzangzuzizhizhou"
+			},{
+				"id": "1024",
+				"name": "玉溪",
+				"spell": "yuxi"
+			},{
+				"id": "1025",
+				"name": "岳阳",
+				"spell": "yueyang"
+			},{
+				"id": "1026",
+				"name": "云浮",
+				"spell": "yunfu"
+			},{
+				"id": "1027",
+				"name": "云林",
+				"spell": "yunlin"
+			},{
+				"id": "1028",
+				"name": "运城",
+				"spell": "yuncheng"
+			}]
+		},{
+			"classify": "Z",
+			"cityList": [{
+				"id": "1001",
+				"name": "枣庄",
+				"spell": "zaozhuang"
+			},{
+				"id": "1002",
+				"name": "湛江",
+				"spell": "zhanjiang"
+			},{
+				"id": "1003",
+				"name": "张家界",
+				"spell": "zhangjiajie"
+			},{
+				"id": "1004",
+				"name": "张家口",
+				"spell": "zhangjiakou"
+			},{
+				"id": "1005",
+				"name": "张掖",
+				"spell": "zhangye"
+			},{
+				"id": "1006",
+				"name": "彰化",
+				"spell": "zhanghua"
+			},{
+				"id": "1007",
+				"name": "漳州",
+				"spell": "zhangzhou"
+			},{
+				"id": "1008",
+				"name": "昭通",
+				"spell": "zhaotong"
+			},{
+				"id": "1009",
+				"name": "肇庆",
+				"spell": "zhaoqing"
+			},{
+				"id": "1010",
+				"name": "镇江",
+				"spell": "zhenjiang"
+			},{
+				"id": "1011",
+				"name": "郑州",
+				"spell": "zhengzhou"
+			},{
+				"id": "1012",
+				"name": "中山",
+				"spell": "zhongshan"
+			},{
+				"id": "1013",
+				"name": "中卫",
+				"spell": "zhongwei"
+			},{
+				"id": "1014",
+				"name": "舟山",
+				"spell": "zhoushan"
+			},{
+				"id": "1015",
+				"name": "周口",
+				"spell": "zhoukou"
+			},{
+				"id": "1016",
+				"name": "珠海",
+				"spell": "zhuhai"
+			},{
+				"id": "1017",
+				"name": "株洲",
+				"spell": "zhuzhou"
+			},{
+				"id": "1018",
+				"name": "驻马店",
+				"spell": "zhumadian"
+			},{
+				"id": "1019",
+				"name": "资阳",
+				"spell": "ziyang"
+			},{
+				"id": "1020",
+				"name": "淄博",
+				"spell": "zibo"
+			},{
+				"id": "1021",
+				"name": "自贡",
+				"spell": "zigong"
+			},{
+				"id": "1022",
+				"name": "遵义",
+				"spell": "zunyi"
+			}]
+		}]
+	}
+}

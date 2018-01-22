@@ -9,11 +9,6 @@
 </template>
 
 <script>
-  import OrderHeader from './header'
-  import OrderDesc from './desc'
-  import OrderTicket from './tickets'
-  import OrderTourist from './tourists'
-  import OrderSubmit from './submit'
   export default {
     name: 'Order',
     data () {
@@ -22,11 +17,11 @@
       }
     },
     components: {
-      OrderHeader,
-      OrderDesc,
-      OrderTicket,
-      OrderTourist,
-      OrderSubmit
+      OrderHeader: () => import('./header'),
+      OrderDesc: () => import('./desc'),
+      OrderTicket: () => import('./tickets'),
+      OrderTourist: () => import('./tourists'),
+      OrderSubmit: () => import('./submit')
     },
     methods: {
       handleChangeNum (value) {

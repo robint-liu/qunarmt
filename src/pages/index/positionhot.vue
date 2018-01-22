@@ -39,7 +39,7 @@
         border-right: .001rem solid #dddddd
       .posihot-left, .posihot-right
         float:left
-        width: 3.74rem
+        width: 49.9%
         height: .97rem
         line-height: .97rem
         text-align: center

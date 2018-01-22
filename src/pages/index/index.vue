@@ -14,53 +14,58 @@
 </template>
 
 <script>
-  // 充当header.vue局部组件的父组件
-  import IndexHeader from './header.vue'
-  import IndexSwiper from './swiper.vue'
-  import IndexIcons from './icons'
-  import PositionHot from './positionhot.vue'
-  import Produce from './produce.vue'
-  import Weekend from './weekend.vue'
-  import NavBox from './nav.vue'
-  import LoginBottom from './login.vue'
   import axios from 'axios'
   import BScroll from 'better-scroll'
+  import { mapState, mapMutations } from 'vuex'
+
   export default {
     name: 'index',
     components: {
-      IndexHeader, // camelClass写法
-      IndexSwiper,
-      IndexIcons,
-      PositionHot,
-      Produce,
-      Weekend,
-      NavBox,
-      LoginBottom
+      IndexHeader: () => import('./header.vue'),
+      IndexSwiper: () => import('./swiper.vue'),
+      IndexIcons: () => import('./icons'),
+      PositionHot: () => import('./positionhot.vue'),
+      Produce: () => import('./produce.vue'),
+      Weekend: () => import('./weekend.vue'),
+      NavBox: () => import('./nav.vue'),
+      LoginBottom: () => import('./login.vue')
     },
     data () {
       return {
         swiperInfo: [],
         iconsInfo: [],
         produceInfo: [],
-        weekendInfo: []
+        weekendInfo: [],
+        iscity: ''
       }
     },
     methods: {
+      ...mapMutations(['reloadCiy']),
       getIndexData () {
-        axios.get('/api/index.json')
+        this.iscity = localStorage.city ? localStorage.city : ''
+        axios.get('/api/index.json?address=' + this.iscity)
           .then(this.handleGetDataSucc.bind(this))
           .catch(this.handleGetDataErr.bind(this))
       },
       handleGetDataSucc (res) {
-        const data = res.data.data
-        this.swiperInfo = data.swiperList
-        this.iconsInfo = data.iconList
-        this.produceInfo = data.recommendList
-        this.weekendInfo = data.weekendList
+        res = res ? res.data : null // 容错处理, 判断错误在哪里发生，前端或后端
+        if (res && res.ret && res.data) { // 容错处理
+          res.data.swiperList && (this.swiperInfo = res.data.swiperList)
+          res.data.iconList && (this.iconsInfo = res.data.iconList)
+          res.data.recommendList && (this.produceInfo = res.data.recommendList)
+          res.data.weekendList && (this.weekendInfo = res.data.weekendList)
+          // 第一次进入
+          if (!this.iscity) {
+            res.data.city && (this.reloadCiy(res.data.city || this.iscity))
+          }
+        }
       },
       handleGetDataErr () {
         console.log('error')
       }
+    },
+    computed: {
+      ...mapState(['city'])
     },
     created () {
       this.getIndexData() // 借用生命周期钩子请求ajax
@@ -68,13 +73,21 @@
     mounted () {
       /* eslint-disable no-new */
       new BScroll('.wrapper')
+    },
+    watch: {
+      city () {
+        this.getIndexData()
+      }
     }
   }
 </script>
 
 <style lang="stylus" scoped>
   .wrapper
-    width: 100%
-    height: 13.34rem
+    position: absolute
+    left: 0
+    top: 0
+    right: 0
+    bottom: 0
     background: #f5f5f5
 </style>

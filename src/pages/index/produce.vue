@@ -2,7 +2,7 @@
   <div class="producebox">
     <div class="produce-item" v-for="(item, index) of list" :key="item.id">
       <div class="left">
-        <img :src="item.imgurl" alt="">
+        <img v-lazy="item.imgurl" alt="">
       </div>
       <div class="right">
         <div class="title">{{item.title}}</div>
